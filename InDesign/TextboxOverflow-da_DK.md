@@ -1,10 +1,10 @@
 # Automatisk oprettelse af sider efter behov
 
-## Kopiér tekstbokesen til `A-Master`
+## Kopiér tekstboksen til `A-Master`
 
 ![Copy text box to A-Master](./TextboxOverflow/01-copy-textbox-to-a-master.gif)
 
-1. Markér textboksen som hvis indhold vi ønsker der skal overflow til næste side.
+1. Markér textboksen hvis indhold vi ønsker der skal overflow til næste side.
 2. Højreklik og vælg `Copy`.
 3. Dobbeltklik på `A-master` i `Pages` panelet for at skifte til master spread'et.
 4. Højreklik midt på siden og vælg `Paste in Place`.
@@ -25,7 +25,7 @@
 
 1. Højre klik på side `1`.
 2. Vælg `Apply Master to Pages`.
-3. Verificere at der står `A-Master` ud for `Apply Master:`.
+3. Verificér at der står `A-Master` ud for `Apply Master:`.
 4. Klik `OK`.
 
 ## Flyt den oprindelige tekstbok
@@ -34,7 +34,7 @@
 
 1. Dobbeltklik på siden vi kopierede tekstboksen fra.
 2. Klik på tekstboksen.
-3. Flyt tektboksen ud af siden.
+3. Flyt tekstboksen ud af siden.
 4. Verificér at den primære tekstboks fra `A-Master` er tilgængelig på siden.
 
 ## Opret ny `Master Spread` til side 2, 3,...
@@ -60,15 +60,15 @@
 1. Dobbeltklik på teksboksen.
 2. Markér alt tekst indholdet som ikke er overskriften.
 3. Slet teksten.
-4. Tilpas tekstboksrammen så den kun dækker overskrifeten.
+4. Tilpas tekstboksrammen så den kun dækker overskriften.
 
 ## Indsæt tekstboks til dynamisk indhold
 
 ![Create primary textbox for dynamic content](./TextboxOverflow/09-make-dynamic-textbox-primary.gif)
 
 1. Højreklik på siden og vælg `Paste in Place`.
-2. Ændre teksboksrammen størrelse til at flugte med overskriften.
-3. Markér alt tekst indholdet.
+2. Ændre tekstboksrammens størrelse til at flugte med overskriften.
+3. Markér alt tekstindholdet.
 4. Slet teksten.
 5. Tryk `Esc` knappen for at få fokus til tekstboks rammen.
 6. Klik på det lille papir ikon så der kommer en lille pil frem.
@@ -79,7 +79,7 @@
 
 1. Højre klik på `Page 2`.
 2. Vælg `Apply Master to Pages`.
-3. Verificere at der står `B-Master` ud for `Apply Master:`.
+3. Verificér at der står `B-Master` ud for `Apply Master:`.
 4. Klik `OK`.
 
 ## Flyt den oprindelige tekstbok på side `2` væk
@@ -121,7 +121,7 @@
 
 ![Verify text overflows correctly](./TextboxOverflow/15-verify-text-overflows-correctly.gif)
 
-1. Markér teksten der går ud på siden `2`.
+1. Markér teksten der går ud på side `2`.
 2. Kopiér teksten (højreklik -> `Copy` / `Ctrl + C`)
 3. Indsæt det nogle gange indtil der opstår en side `3`.
 4. Verificér at side `3` bruger `B-Master`.
