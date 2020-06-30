@@ -129,4 +129,6 @@
 4. Verificér at side `3` bruger `B-Master`.
 5. Fortryd `Ctrl + Z` ændringerne indtil vi er tilbage til kun 2 sider igen.
 
+Vær opmærksom på at man maksimalt kan have 10 sider i et spread. Det er en begrænsning i InDesign.
+
 [⟵](./README.md)
